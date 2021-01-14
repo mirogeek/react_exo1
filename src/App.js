@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+import "./style.css"
 
 function App() {
   return (
@@ -9,6 +8,9 @@ function App() {
       <h1>exo1</h1>
 
     </div>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos, dicta!
+    </p>
 
   </div>
   );
